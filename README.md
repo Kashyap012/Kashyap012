@@ -10,7 +10,7 @@
 
 </div>
 
-![Master's thesis overview](assets/thesis-overview.png)
+![Robotics perception and synthetic data overview](assets/robotics-perception-overview.jpg)
 
 ## About me
 
