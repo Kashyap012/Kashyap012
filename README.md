@@ -29,7 +29,7 @@ My work sits at the intersection of **robotics simulation, synthetic data, perce
 
 | Project | Engineering focus | Evidence |
 | --- | --- | --- |
-| [Synthetic Data for Quality Inspection](https://github.com/Kashyap012/isaac-sim-synthetic-inspection) | Isaac Sim, OpenUSD, Replicator-style domain randomization, annotation conversion, YOLO/DETR evaluation | Master's thesis case study with approved result visuals and reusable conversion code |
+| [Synthetic Data for Quality Inspection](https://github.com/Kashyap012/isaac-sim-synthetic-inspection) | Isaac Sim, OpenUSD, Replicator-style domain randomization, annotation conversion, YOLO/DETR evaluation | Master's thesis with approved result visuals and reusable conversion code |
 | [Isaac Lab Assembly Benchmark](https://github.com/Kashyap012/isaac-lab-assembly-benchmark) | RL policy evaluation for robotic insertion and assembly | Reproducible benchmark metrics, configuration, sample episode, and tests |
 | [ROS 2 Industrial Sensor Monitor](https://github.com/Kashyap012/ros2-industrial-sensor-monitor) | ROS 2, industrial sensing, health monitoring, MQTT-oriented integration patterns | Runnable core logic with tests and a ROS 2 adapter |
 
